@@ -2,5 +2,5 @@
 
 still work in progress 
 
-# documentation
+## documentation
 you can read the docs from [here](https://github.com/NathanWesly/test/wiki)
